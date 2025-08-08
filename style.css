@@ -22,8 +22,26 @@
     list-style: none;
     gap: 15px;
   }
-  
+  .hero_imgs {
+  top: 4rem;
+  left: 4.75rem;
+  width: 587.6px;
+  height: 751.06px;
+  }
+  img.woman{
+    position: absolute;
+    display: flex; 
+    height: 687px;
+
+  }
+  img.visa{
+    position: absolute;
+  }
+  img.Ellipse{
+   position: absolute;
+  }
   .header_menu li {
+    
     font-weight: 400;
     cursor: pointer;
   }
